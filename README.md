@@ -1,6 +1,9 @@
 # Hospital-Emergency-Room-Dashboard
 This project focuses on analyzing Hospital Emergency Room (ER) data using Excel, Pivot Tables, and DAX formulas to generate key insights into patient flow, wait times, satisfaction levels, and department referrals. The dashboard is designed to improve hospital performance evaluation and enhance decision-making through data-driven analysis.
 
+<img width="892" alt="Final Dahboard Hopital Management " src="https://github.com/user-attachments/assets/9fe44614-9487-414a-83a4-a34b47211080" />
+
+
 Key Components of the Dashboard:
 📌 Total Patient Count & Daily Trends
 The dashboard tracks the number of patients visiting the ER daily. By using an area sparkline, it highlights busy days, seasonal trends, and peak hours, allowing hospital administrators to optimize staff allocation and resource management.
